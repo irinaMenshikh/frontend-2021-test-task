@@ -1,0 +1,32 @@
+.container {
+    max-width: 1000px;
+    height: fit-content; 
+   margin: 0 auto;
+   margin-top: 40px;
+    
+}
+  
+.pandemic_container {
+   
+}
+
+.morbidity_rate {
+    display: flex;
+}
+
+.box_ocean {
+    background-color: #01BFC4;
+}
+.box_infected {
+    
+ background-color: #FF5057;
+}
+.box_uninfected {
+    background-color: #9BD288;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid grey;
+    margin-right: 4px;
+}
